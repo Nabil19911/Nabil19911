@@ -11,6 +11,6 @@ I'm a passionate and self-taught React developer specializing in building dynami
 - Tools & Methods: Git, Jira, Azure, Responsive Design, RESTful API Integration
 
 ## 📬 Get in Touch
-- LinkedIn: [{nabilshaahani}]https://www.linkedin.com/in/nabilshaahani/)https://www.linkedin.com/in/nabilshaahani/
+- LinkedIn: [nabilshaahani](https://www.linkedin.com/in/nabilshaahani/)
 - Email: Nabilshaahani@gmail.com
 
